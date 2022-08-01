@@ -6,8 +6,10 @@ a command-line program that, in response to user input, produces an expert READM
 ## Features
 
 * JavaScript
-* Node.js
-* NPM
+
 
   
   ## Installation
+-Download/clone my repository
+-This app requires node.js to be used.
+-Do npm install to install the required dependencies
